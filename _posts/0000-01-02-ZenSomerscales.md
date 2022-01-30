@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Fear is the little death that brings total obliteration."
 Use the left arrow to go back!
